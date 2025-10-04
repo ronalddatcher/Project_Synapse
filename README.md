@@ -20,6 +20,16 @@ Instead of a simple, sequential state machine, the Synapse agent uses a **Cognit
 
 The true intelligence emerges in the **Synthesis** step of the loop, where the agent finds emergent connections *between* the outputs of these three reasoning modes. An insight is formed when an anomaly from inductive reasoning is explained by a powerful analogy and aligns with the user's true intent. This allows the agent to solve complex problems in a way that mimics human intuition.
 
+## LLM Compatibility & Agent Priming
+
+A key finding of this project is that agent performance is not just a function of the protocol, but also of the target model's "personality" and its response to priming instructions.
+
+*   **Gemini & GPT-5:** The primary protocol, `Synapse_Agent_Protocol.md`, functions as intended on models like Google's Gemini and OpenAI's GPT-5. These models correctly parse the meta-instructions and adopt the agent persona.
+
+*   **Mistral AI:** The same protocol was not successfully executed by Mistral AI's model, which tended to analyze the protocol as a piece of text rather than embodying the agent.
+
+To address this, a separate file, `Synapse_Agent_Protocol_MistralAI.md`, has been included. This file uses a more forceful and direct **"Protocol Interpreter"** meta-instruction designed to compel the Mistral model to execute the symbolic logic. This demonstrates that achieving true, cross-platform agent portability requires tailoring the priming strategy to the unique characteristics of each foundational model.
+
 ## Blueprint for the Future
 
 Project Synapse aims to be a working model for AI that can:
