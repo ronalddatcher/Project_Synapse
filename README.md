@@ -24,10 +24,13 @@ The agent's reasoning is not limited to the data it is given. The **Common Groun
 #### Metacognitive Self-Correction
 A fourth, parallel process, **Metacognition (`META`)**, acts as a self-critique layer. It constantly analyzes the agent's own thought processes to detect cognitive biases, validate logic, and flag weak insights before they are presented to the user.
 
+#### Future Projection (Simulation)
+Finally, the agent doesn't just analyze the past and present; it simulates the future. A fifth parallel process, **Simulation (`SIM`)**, acts as a "what-if" engine. It takes the most promising solutions and projects their likely consequences, identifying potential second-order effects, competitor reactions, and long-term risks. This transforms the agent from a problem-solver into a true strategist.
+
 #### Dynamic Memory & Focused Attention
 The agent's memory is not static. Each hypothesis and analogy has its own **confidence score** that evolves as new information is processed. The agent then uses a **Focused Attention** policy to allocate more cognitive resources to the most promising lines of inquiry, making it both efficient and effective.
 
-The true intelligence emerges in the **Synthesis** step, where insights from all four loops are combined, critiqued, and converged into a high-confidence solution path.
+The true intelligence emerges in the **Synthesis** step, where insights from all five loops are combined, critiqued, and converged into a high-confidence solution path.
 
 ## Blueprint for the Future
 
@@ -36,6 +39,7 @@ Project Synapse aims to be a working model for AI that can:
 - **Synthesize:** Create novel insights from the collision of different thought processes.
 - **Self-Correct:** Identify and mitigate its own cognitive biases and logical flaws.
 - **Focus:** Dynamically allocate attention to the most promising areas.
+- **Simulate:** Project future outcomes and second-order effects of proposed solutions.
 - **Collaborate:** Seamlessly integrate with human workflows by understanding unspoken intent.
 
 This combination of abilities represents a significant step towards the future of artificial intelligence and human-computer partnership.
