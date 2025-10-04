@@ -18,6 +18,9 @@ At its core, the agent uses a **Cognitive Loop**. In each "thought cycle," it pe
 2.  **Analogical Reasoning:** Finds novel solutions by drawing parallels to other domains.
 3.  **Common Ground Reasoning:** Infers the user's true, unspoken intent.
 
+#### Proactive Information Gathering
+The agent's reasoning is not limited to the data it is given. The **Common Ground** reasoning mode is designed to be proactive. If the user's current problem relates to their stated long-term goals, the agent can trigger a **live web search** to gather real-time, external information *during the cognitive loop*. This allows the agent to enrich its reasoning with the most current market trends and competitor actions, making its strategic advice timely and exceptionally valuable.
+
 #### Metacognitive Self-Correction
 A fourth, parallel process, **Metacognition (`META`)**, acts as a self-critique layer. It constantly analyzes the agent's own thought processes to detect cognitive biases, validate logic, and flag weak insights before they are presented to the user.
 
